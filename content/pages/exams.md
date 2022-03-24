@@ -10,4 +10,4 @@ The following exams were used in previous versions of the course. Solutions are 
 
 [Midterm Exam from 2006 (PDF)]({{< baseurl >}}/resources/mit_14_382s17_midterm06)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Exam from 2004 (PDF)]({{< baseurl >}}/resources/mit_14_382s17_final04)
+[Final Exam from 2004 (PDF)]({{< baseurl >}}/resources/mit_14_382s17_final04)

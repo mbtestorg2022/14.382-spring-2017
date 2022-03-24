@@ -8,7 +8,7 @@ uid: d6be3952-6de4-1721-a37a-3f611b6038e3
 
 [Slides: GMM Estimation in Stata (PDF)]({{< baseurl >}}/resources/mit14_382s17_gmmslides) (Courtesy of Ricardo Mora. Used with permission.)
 
-Arellano, Manuel, and Jinyong Hahn. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Understanding Bias in Nonlinear Panel Models: Some Recent Developments." (PDF)](http://www.cemfi.es/~arellano/arellano-hahn-worldcongress.pdf) In _Advances in Economics and Econometrics, Ninth World Congress_. Edited by Richard Blundell, Whitney K. Newey, and Torsten Persson. Cambridge University Press, 2007. ASIN: B01F7YA3P0
+Arellano, Manuel, and Jinyong Hahn. "[Understanding Bias in Nonlinear Panel Models: Some Recent Developments." (PDF)](http://www.cemfi.es/~arellano/arellano-hahn-worldcongress.pdf) In _Advances in Economics and Econometrics, Ninth World Congress_. Edited by Richard Blundell, Whitney K. Newey, and Torsten Persson. Cambridge University Press, 2007. ASIN: B01F7YA3P0
 
 Chamberlain, Gary. "[Panel Data](http://www.sciencedirect.com/science/article/pii/S1573441284020146)." Chapter 22 In _Handbook of Econometrics, Volume II_. Edited by Z. Griliches and M.D Intriligator.  Elsevier Science Publishers, 1984. pp. 1247–1318. 
 
